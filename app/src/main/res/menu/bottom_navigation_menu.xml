@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_explorar"
+        android:title="Explorar"
+        android:icon="@drawable/baseline_explore_24"/>
+
+    <item
+        android:id="@+id/bottom_rede_contatos"
+        android:title="Redes de Contatos"
+        android:icon="@drawable/baseline_groups_24"/>
+
+    <item
+        android:title=""
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/bottom_eventos"
+        android:title="Eventos"
+        android:icon="@drawable/baseline_event_24"/>
+
+    <item
+        android:id="@+id/bottom_perfil"
+        android:title="Perfil"
+        android:icon="@drawable/outline_person_24"/>
+
+</menu>
